@@ -1,1 +1,2 @@
 sophia text file for git1
+sophia text file for git2
